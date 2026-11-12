@@ -2,7 +2,9 @@
 
 **Auto DWG to PDF Converter & Printer (Single- and Multi-Sheet DWG Files)**
 
-제작: **(주)영전산기** · YouTube [@youngjunsanki](https://www.youtube.com/@youngjunsanki) · **무료 / Free**
+제작: **(주)영전산기** — AI를 활용한 공장자동화 전문업체 · *Factory automation specialists, powered by AI*
+
+☎ 010-3938-1631 · 🌐 [www.youngjunsanki.com](https://www.youngjunsanki.com) · YouTube [@youngjunsanki](https://www.youtube.com/@youngjunsanki) · **무료 / Free**
 
 ---
 
