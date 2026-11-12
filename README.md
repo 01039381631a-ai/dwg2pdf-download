@@ -26,6 +26,8 @@ DWG 파일을 끌어다 놓으면 **도면틀을 자동으로 찾아** 도면틀
 - 여러 DWG 파일을 **한 번에** 처리
 - 이 PC에 없는 글꼴이 도면에 쓰였으면 알려 줌
 - **AutoCAD · CADian 겸용** (아래 '시험한 CAD 버전' 참고)
+- **한국어 / English** 화면 (Windows 언어에 맞춰 자동, 설정에서 변경)
+- 새 버전이 나오면 **자동 업데이트** 알림
 
 ## What it does
 
@@ -38,6 +40,8 @@ Drag and drop DWG files — the program **finds every drawing frame automaticall
 - **Batch** convert many files at once
 - Warns when a drawing uses fonts that aren't installed
 - Works with **AutoCAD and CADian** (see *Tested CAD versions* below)
+- **Korean / English** interface (follows your Windows language; changeable in Settings)
+- **Automatic update** notice when a new version is released
 
 ---
 
