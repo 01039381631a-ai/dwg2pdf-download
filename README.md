@@ -25,7 +25,7 @@ DWG 파일을 끌어다 놓으면 **도면틀을 자동으로 찾아** 도면틀
 - **바로 인쇄**: 프린터·매수·컬러 선택
 - 여러 DWG 파일을 **한 번에** 처리
 - 이 PC에 없는 글꼴이 도면에 쓰였으면 알려 줌
-- **AutoCAD · CADian 겸용**
+- **AutoCAD · CADian 겸용** (아래 '시험한 CAD 버전' 참고)
 
 ## What it does
 
@@ -37,7 +37,7 @@ Drag and drop DWG files — the program **finds every drawing frame automaticall
 - **Print instantly** — choose printer, copies, color
 - **Batch** convert many files at once
 - Warns when a drawing uses fonts that aren't installed
-- Works with **AutoCAD and CADian**
+- Works with **AutoCAD and CADian** (see *Tested CAD versions* below)
 
 ---
 
@@ -47,6 +47,16 @@ Drag and drop DWG files — the program **finds every drawing frame automaticall
 |---|---|
 | 운영체제 / OS | Windows 10 · 11 (64bit) |
 | CAD | AutoCAD 또는 CADian 중 하나 설치 / AutoCAD or CADian installed |
+
+### 시험한 CAD 버전 / Tested CAD versions
+
+| 프로그램 / Program | 시험한 버전 / Tested |
+|---|---|
+| AutoCAD | **2027** (한글판 / Korean) |
+| CADian | **2014**, **2017** |
+
+- 위 버전에서만 시험했습니다. **다른 버전이나 다른 CAD 프로그램**(ZWCAD, GstarCAD, BricsCAD 등)은 추가·수정이 필요할 수 있습니다. 안 되면 아래 메일로 알려 주세요.
+- *Only the versions above have been tested. Other versions or other CAD programs (ZWCAD, GstarCAD, BricsCAD, etc.) may need additional work — please report problems by email below.*
 | PDF 출력 | Microsoft Print to PDF (Windows 기본 포함 / built into Windows) |
 
 ## 설치 방법 / How to install
@@ -71,8 +81,8 @@ Drag and drop DWG files — the program **finds every drawing frame automaticall
 
 - 개인·회사 모두 **무료**로 사용할 수 있습니다. 다른 곳에 다시 올려 배포하거나 판매하는 것은 삼가 주세요.
 - 만들어진 PDF·인쇄물은 **사용자가 확인**한 뒤 사용해 주세요. 이 프로그램을 사용해서 생긴 문제에 대해 제작사는 책임지지 않습니다.
-- 문의·건의는 YouTube [@youngjunsanki](https://www.youtube.com/@youngjunsanki) 댓글로 남겨 주세요.
+- **버그·수정 문의: yjs1631@hanmail.net** (YouTube [@youngjunsanki](https://www.youtube.com/@youngjunsanki) 댓글도 괜찮습니다)
 
-*Free for personal and business use. Please don't re-upload or sell it. Always check the resulting PDFs and printouts; the software is provided as is, without warranty. Questions: leave a comment on YouTube [@youngjunsanki](https://www.youtube.com/@youngjunsanki).*
+*Free for personal and business use. Please don't re-upload or sell it. Always check the resulting PDFs and printouts; the software is provided as is, without warranty. Bug reports & requests: **yjs1631@hanmail.net** (or comment on YouTube [@youngjunsanki](https://www.youtube.com/@youngjunsanki)).*
 
 © (주)영전산기 YOUNGJUN SANKI
